@@ -28,9 +28,12 @@ body {
     color: #ff9260;
 }
 
-h4 {
+#entretenimento span, #trabalho h4 {
     font-family: 'Marck Script', cursive;
     font-size: 1.5em;
+}
+iframe{
+    border:0;
 }
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Entretenimento <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
